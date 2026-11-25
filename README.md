@@ -1,7 +1,11 @@
 # G&W Music Player — v1.0
 
+
 Standalone Retro-Go SD homebrew music player for the Game & Watch.
 Author: **dadagm**
+
+![Uploading player-menu-green-320x240.png…]()
+
 
 - Version: `v1.0` (single source of truth: `CORE_VERSION` in the Makefile)
 - 320×240 interface, light-green and light-red skins, large 8×8 bitmap text
