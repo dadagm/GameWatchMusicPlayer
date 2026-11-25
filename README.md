@@ -4,7 +4,7 @@
 Standalone Retro-Go SD homebrew music player for the Game & Watch.
 Author: **dadagm**
 
-![Uploading player-menu-green-320x240.png…]()
+![player-menu-green-320x240.png…]()
 
 
 - Version: `v1.0` (single source of truth: `CORE_VERSION` in the Makefile)
