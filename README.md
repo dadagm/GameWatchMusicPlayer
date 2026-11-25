@@ -27,8 +27,7 @@ Author: **dadagm**
 SD:/music/song.mp3
 SD:/music/song.wav
 SD:/music/.last              (written automatically)
-SD:/roms/homebrew/MusicPlayer.bin
-SD:/covers/homebrew/MusicPlayer.img   (optional override)
+SD:/homebrew/MusicPlayer.bin
 ```
 
 The packed `.bin` already contains the cover; the external `.img` is only
